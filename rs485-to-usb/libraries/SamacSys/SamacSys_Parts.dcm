@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP CSTCR6M00G53-R0
+D Ceramic resonator SMT CSTCR 6MHz CSTCR6M00G53-R0, Ceramic Resonator, 6MHz Shear 15pF, 3-Pin SMT, 4.5 x 2 x 1.15mm
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p16e.ashx
+$ENDCMP
+#
+#End Doc Library

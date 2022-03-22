@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "10118194-0001LF")(type "KiCad")(uri "${KIPRJMOD}/libraries/10118194-0001LF")(options "")(descr ""))
+  (lib (name "CDSOT23-SM712")(type "KiCad")(uri "${KIPRJMOD}/libraries/CDSOT23-SM712")(options "")(descr ""))
+  (lib (name "SN65HVD1782D")(type "KiCad")(uri "${KIPRJMOD}/libraries/SN65HVD1782D")(options "")(descr ""))
+  (lib (name "OSC_CSTCE16M0V53-R0")(type "KiCad")(uri "${KIPRJMOD}/libraries/OSC_CSTCE16M0V53-R0")(options "")(descr ""))
+  (lib (name "Logos")(type "KiCad")(uri "${KIPRJMOD}/libraries/Logos")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/SamacSys/SamacSys_Parts.pretty")(options "")(descr ""))
+)

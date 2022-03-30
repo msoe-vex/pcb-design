@@ -1,4 +1,4 @@
-19770361120974149
+19781899571581191
 5v
 MC78M05CDTRKG
 
@@ -56762,6 +56762,13 @@ VEXU
 0
 0
 0
+MBRS130L
+MBRS130L
+
+
+0
+2
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -75697,6 +75704,20 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RS485
+RS485
+
+
+0
+6
+4
+RS_UART
+ISL83490IBZ
+
+
+0
+8
+8
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -77615,6 +77636,13 @@ SOIC127P599X175-8N
 0
 8
 8
+SSM3K7002KFU
+SSM3K7002KFU
+
+
+0
+3
+3
 SamacSys_Parts
 CSTCR_G
 CSTCR_G
@@ -84556,6 +84584,27 @@ Varistor
 RV_Disc_D21.5mm_W11.4mm_P10mm
 Varistor, diameter 21.5mm, width 11.4mm, pitch 10mm
 varistor SIOV
+0
+2
+2
+induct
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+induct
+SOIC127P600X175-8N
+S8+2C
+Integrated Circuit
+0
+8
+8
+induct
+SRR1205500YL
+SRR1205-500YL-1
+Inductor
 0
 2
 2

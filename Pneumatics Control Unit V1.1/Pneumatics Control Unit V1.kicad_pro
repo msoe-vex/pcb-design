@@ -345,7 +345,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Test Rs485.kicad_pro",
+    "filename": "Pneumatics Control Unit V1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -378,7 +378,6 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "+5V",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",

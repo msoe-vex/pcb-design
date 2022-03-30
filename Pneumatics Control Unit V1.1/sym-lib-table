@@ -3,4 +3,6 @@
   (lib (name "CDSOT23-SM712")(type "Legacy")(uri "${KIPRJMOD}/libraries/CDSOT23-SM712/CDSOT23-SM712.lib")(options "")(descr ""))
   (lib (name "10118194-0001LF")(type "Legacy")(uri "${KIPRJMOD}/libraries/10118194-0001LF/10118194-0001LF.lib")(options "")(descr ""))
   (lib (name "Test Rs485-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Test Rs485-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "${KIPRJMOD}/libraries/SamacSys/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "OtherPart")(type "Legacy")(uri "C:/Program Files/KiCad/OtherPart.lib")(options "")(descr ""))
 )

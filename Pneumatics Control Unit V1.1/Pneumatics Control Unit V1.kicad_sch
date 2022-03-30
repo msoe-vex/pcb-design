@@ -2253,7 +2253,6 @@
     )
   )
 
-
   (junction (at 250.317 125.222) (diameter 0) (color 0 0 0 0)
     (uuid 00842b0f-0fe8-4641-810f-408f9849164b)
   )
@@ -4801,7 +4800,7 @@
     (property "Reference" "#PWR01" (id 0) (at 20.193 137.1092 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+5V" (id 1) (at 20.193 129.4892 0))
+    (property "Value" "V_USB" (id 1) (at 20.193 129.4892 0))
     (property "Footprint" "" (id 2) (at 20.193 133.2992 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5404,7 +5403,7 @@
     (property "Value" "MICROMOD-2222" (id 1) (at 35.179 216.408 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "m2:MDT420M02001" (id 2) (at 55.499 168.148 0)
+    (property "Footprint" "mm-m:M.2-CONNECTOR-E" (id 2) (at 55.499 168.148 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 55.499 168.148 0)
@@ -5729,7 +5728,7 @@
     (property "Reference" "#PWR05" (id 0) (at 130.2004 118.6688 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+5V" (id 1) (at 130.2004 111.0488 0))
+    (property "Value" "V_USB" (id 1) (at 130.2004 111.0488 0))
     (property "Footprint" "" (id 2) (at 130.2004 114.8588 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6062,7 +6061,7 @@
     (property "Reference" "#PWR03" (id 0) (at 119.1768 149.5044 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+5V" (id 1) (at 119.1768 141.8844 0))
+    (property "Value" "V_USB" (id 1) (at 119.1768 141.8844 0))
     (property "Footprint" "" (id 2) (at 119.1768 145.6944 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6396,19 +6395,19 @@
 
   (symbol_instances
     (path "/40797b21-861a-42dd-8087-91d198f1026e"
-      (reference "#PWR01") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR01") (unit 1) (value "V_USB") (footprint "")
     )
     (path "/e7c716df-c012-4512-a2b1-2b5b2ce1bcbd"
       (reference "#PWR02") (unit 1) (value "GND") (footprint "")
     )
     (path "/d7330338-c0d5-4a64-b93d-2554a72179c2"
-      (reference "#PWR03") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR03") (unit 1) (value "V_USB") (footprint "")
     )
     (path "/504d002d-27ba-46c5-b445-3a605faf93e7"
       (reference "#PWR04") (unit 1) (value "GND") (footprint "")
     )
     (path "/a86e8a6a-4a69-44ee-b851-2e958dc4871a"
-      (reference "#PWR05") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR05") (unit 1) (value "V_USB") (footprint "")
     )
     (path "/4dfe37f2-1b83-4477-ab68-9396d2831d3d"
       (reference "#PWR06") (unit 1) (value "GND") (footprint "")
@@ -6669,7 +6668,7 @@
       (reference "J2") (unit 1) (value "RX_PORT") (footprint "RS485:RS485")
     )
     (path "/9711fd24-5ce9-404b-9f31-8acd85b963f3"
-      (reference "J3") (unit 1) (value "MICROMOD-2222") (footprint "m2:MDT420M02001")
+      (reference "J3") (unit 1) (value "MICROMOD-2222") (footprint "mm-m:M.2-CONNECTOR-E")
     )
     (path "/920f195c-8d76-4e1c-95cf-b679803c48bf"
       (reference "J4") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")

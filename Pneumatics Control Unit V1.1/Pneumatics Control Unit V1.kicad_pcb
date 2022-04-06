@@ -6780,7 +6780,7 @@
     (fp_arc (start -11 3.6) (mid -10.819362 3.180638) (end -10.400001 2.999999) (layer "B.Fab") (width 0.05) (tstamp 157971be-a363-4e4a-8b1b-431dfa212e24))
     (fp_arc (start 11 19) (mid 10.7 19.7) (end 10 20) (layer "B.Fab") (width 0.05) (tstamp 347e301d-2d6b-440d-aaf7-56b0bbefea79))
     (fp_arc (start 3.225 1.9) (mid 2.625 2.5) (end 2.025 1.9) (layer "B.Fab") (width 0.0508) (tstamp 6b4d2166-17dc-4670-a1b8-368060c23bf0))
-    (fp_arc (start 10.4 3) (mid 10.065368 2.842287) (end 9.925 2.5) (layer "B.Fab") (width 0.0508) (tstamp 701e43ab-3a3c-4989-adaf-696320aaff53))
+    (fp_arc (start 10.4 3) (mid 10.065362 2.842281) (end 9.925 2.5) (layer "B.Fab") (width 0.0508) (tstamp 701e43ab-3a3c-4989-adaf-696320aaff53))
     (fp_arc (start -9.925 2.5) (mid -10.066759 2.840954) (end -10.4 3) (layer "B.Fab") (width 0.0508) (tstamp 8726ae1f-a4aa-4d1e-aa42-f7f498806a94))
     (fp_arc (start -10 20) (mid -10.7 19.7) (end -11 19) (layer "B.Fab") (width 0.05) (tstamp a2f50b5c-328e-4b38-9ae0-f775f7dbc691))
     (fp_arc (start 10.4 3) (mid 10.819368 3.180631) (end 10.999999 3.599999) (layer "B.Fab") (width 0.05) (tstamp e5ebdc63-39fb-4738-b010-33662da49202))
@@ -9343,7 +9343,7 @@
   )
 
   (gr_line (start 127.1414 37.1856) (end 127.116 59.1566) (layer "F.SilkS") (width 0.2032) (tstamp 04a20833-47f7-4335-b550-eb30f4817194))
-  (gr_rect (start 103.759 64.262) (end 157.353 133.477) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 75814073-c67b-4c80-8b4c-2eb4e8b4fb46))
+  (gr_rect (start 103.759 65.405) (end 157.353 130.81) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 75814073-c67b-4c80-8b4c-2eb4e8b4fb46))
   (gr_rect (start 103.632 65.532) (end 157.48 130.556) (layer "User.6") (width 0.15) (fill none) (tstamp de1d8b49-3cd8-4ee5-8113-50d6db3ea930))
   (gr_text "Andrew Kempen\nAsher Sprigler\nNathan Roth\n4/5/2022" (at 114.808 70.612) (layer "B.SilkS") (tstamp f9adc6e7-e32e-489c-8391-2d092043b27d)
     (effects (font (size 0.8 0.8) (thickness 0.1)) (justify mirror))

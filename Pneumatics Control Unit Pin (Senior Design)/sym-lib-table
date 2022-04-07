@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name "12V5V Regulator")(type "Legacy")(uri "${KIPRJMOD}/Libraries/12V5V Voltage Regulator/MC78M05CDTRKG.lib")(options "")(descr ""))
+  (lib (name "Ethernet")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Ethernet/J1B1211CCD.lib")(options "")(descr ""))
+  (lib (name "RS485 To UART")(type "Legacy")(uri "${KIPRJMOD}/Libraries/RS485 to UART/ISL83490IBZ.lib")(options "")(descr ""))
+  (lib (name "Teensy")(type "Legacy")(uri "${KIPRJMOD}/Libraries/teensy_library-master/teensy.lib")(options "")(descr ""))
+  (lib (name "USB 2.0 Micro")(type "Legacy")(uri "${KIPRJMOD}/Libraries/USB 2.0 Micro/10118194-0001LF.lib")(options "")(descr ""))
+  (lib (name "Toshiba MOSFET")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Toshiba MOSFET/2022-04-06_17-30-49.lib")(options "")(descr ""))
+  (lib (name "Samsung Cap 22u")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Samsung Cap 22u/eec.lib")(options "")(descr ""))
+  (lib (name "Taiyo Inductor 33uh")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Taiyo Inductor 33uh/LB3218T330KV.lib")(options "")(descr ""))
+  (lib (name "MBRS130L Diode")(type "Legacy")(uri "${KIPRJMOD}/Libraries/MBRS130L/MBRS130L.lib")(options "")(descr ""))
+  (lib (name "Nexperia Level Shifter")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Nexperia Level Shifter/74AXP2T3407GSX.kicad_sym")(options "")(descr ""))
+)

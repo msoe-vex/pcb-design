@@ -6529,7 +6529,7 @@
   (symbol (lib_id "Device:R_US") (at 135.509 119.761 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f09ce1b1-fd65-4ae3-b44f-4ebb4de3bacb)
-    (property "Reference" "R?" (id 0) (at 135.509 114.681 90))
+    (property "Reference" "R8" (id 0) (at 135.509 114.681 90))
     (property "Value" "27" (id 1) (at 135.509 117.221 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 135.763 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -6675,7 +6675,7 @@
   (symbol (lib_id "Device:R_US") (at 135.509 122.301 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fcd7e2a1-c75c-4331-9afc-ca74c910ff4d)
-    (property "Reference" "R?" (id 0) (at 135.509 127.381 90))
+    (property "Reference" "R9" (id 0) (at 135.509 127.381 90))
     (property "Value" "27" (id 1) (at 135.509 124.841 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 135.763 123.317 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -7074,10 +7074,10 @@
       (reference "R7") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/f09ce1b1-fd65-4ae3-b44f-4ebb4de3bacb"
-      (reference "R?") (unit 1) (value "27") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R8") (unit 1) (value "27") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/fcd7e2a1-c75c-4331-9afc-ca74c910ff4d"
-      (reference "R?") (unit 1) (value "27") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R9") (unit 1) (value "27") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/097e0edc-0bee-47b5-b180-d68199aa4ff8"
       (reference "U1") (unit 1) (value "ISL83490IBZ") (footprint "RS_UART:ISL83490IBZ")

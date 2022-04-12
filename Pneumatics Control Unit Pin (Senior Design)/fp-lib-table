@@ -17,5 +17,6 @@
   (lib (name "0.01 uF cap")(type "KiCad")(uri "${KIPRJMOD}/Libraries/0.01 uF Cap/footprints.pretty")(options "")(descr ""))
   (lib (name "20K Res")(type "KiCad")(uri "${KIPRJMOD}/Libraries/20K Res/footprints.pretty")(options "")(descr ""))
   (lib (name "10K Res")(type "KiCad")(uri "${KIPRJMOD}/Libraries/10K Res/footprints.pretty")(options "")(descr ""))
+  (lib (name "10 Res")(type "KiCad")(uri "${KIPRJMOD}/Libraries/10 Res/footprints.pretty")(options "")(descr ""))
   (lib (name "Nexperia Level Shifter")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Nexperia Level Shifter/footprints.pretty")(options "")(descr ""))
 )

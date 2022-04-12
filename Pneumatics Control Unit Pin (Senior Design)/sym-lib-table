@@ -18,4 +18,5 @@
   (lib (name "20K Res")(type "KiCad")(uri "${KIPRJMOD}/Libraries/20K Res/SR1-0805-320.kicad_sym")(options "")(descr ""))
   (lib (name "Nexperia Level Shifter")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Nexperia Level Shifter/74AXP2T3407GSX.kicad_sym")(options "")(descr ""))
   (lib (name "10K Res")(type "KiCad")(uri "${KIPRJMOD}/Libraries/10K Res/SR1-0603-310.kicad_sym")(options "")(descr ""))
+  (lib (name "10 Res")(type "KiCad")(uri "${KIPRJMOD}/Libraries/10 Res/RNCP0603FTD10R0.kicad_sym")(options "")(descr ""))
 )

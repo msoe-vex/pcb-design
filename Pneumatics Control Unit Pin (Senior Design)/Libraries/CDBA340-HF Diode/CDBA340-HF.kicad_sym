@@ -1,0 +1,123 @@
+(kicad_symbol_lib (version 20220328) (generator kicad_symbol_editor)
+  (symbol "CDBA340-HF" (pin_numbers hide) (pin_names (offset 1.651) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "D" (id 0) (at 0 6.35 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Value" "CDBA340-HF" (id 1) (at 0 3.81 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Footprint" "CDBA340-HF Diode:CDBA340-HF" (id 2) (at 0 2.54 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Comchip%20PDFs/CDBA340-HF_Thru_CDBA3100-HF_RevB.pdf" (id 3) (at -3.81 -3.81 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Source" "https://www.digikey.com/en/products/detail/comchip-technology/CDBA340-HF/3308141" (id 4) (at 0 -6.35 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Price" "$0.37" (id 5) (at 0 -8.89 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_fp_filters" "CDBA-HF CDBA-HF-M CDBA-HF-L" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "CDBA340-HF_1_1"
+      (polyline
+        (pts
+          (xy -1.905 1.905)
+          (xy -1.905 1.27)
+        )
+        (stroke (width 0.2032) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.905 1.905)
+          (xy -1.27 1.905)
+        )
+        (stroke (width 0.2032) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 0)
+          (xy -2.54 0)
+        )
+        (stroke (width 0.2032) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 0)
+          (xy 1.27 -1.905)
+        )
+        (stroke (width 0.2032) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 1.905)
+          (xy -1.27 -1.905)
+        )
+        (stroke (width 0.2032) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.635 -1.905)
+          (xy -1.27 -1.905)
+        )
+        (stroke (width 0.2032) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.635 -1.905)
+          (xy -0.635 -1.27)
+        )
+        (stroke (width 0.2032) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 -1.905)
+          (xy 1.27 1.905)
+        )
+        (stroke (width 0.2032) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 1.905)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.2032) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.905 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.2032) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.54 0)
+          (xy 1.6002 0)
+        )
+        (stroke (width 0.2032) (type solid))
+        (fill (type none))
+      )
+      (pin unspecified line (at -5.08 0 0) (length 2.54)
+        (name "1" (effects (font (size 1.4986 1.4986))))
+        (number "1" (effects (font (size 1.4986 1.4986))))
+      )
+      (pin unspecified line (at 5.08 0 180) (length 2.54)
+        (name "2" (effects (font (size 1.4986 1.4986))))
+        (number "2" (effects (font (size 1.4986 1.4986))))
+      )
+    )
+  )
+)

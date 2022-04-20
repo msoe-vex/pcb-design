@@ -9,4 +9,6 @@
   (lib (name "22U")(type "KiCad")(uri "C:/Users/rothn/Downloads/ul_CL21A226MQQNNNF/KiCAD/2022-03-30_14-42-27/22U.pretty")(options "")(descr ""))
   (lib (name "12v5v")(type "KiCad")(uri "C:/Users/rothn/Downloads/ul_MC78M05CDTRKG/KiCAD/2022-03-25_21-05-18/12v5v.pretty")(options "")(descr ""))
   (lib (name "mm-m")(type "KiCad")(uri "C:/Users/rothn/Downloads/mm-m.2")(options "")(descr ""))
+  (lib (name "Header")(type "KiCad")(uri "C:/Users/rothn/TESTVS/pcb-design/Pneumatics Control Unit Pin (Senior Design)/Libraries/Header/footprints.pretty")(options "")(descr ""))
+  (lib (name "test")(type "KiCad")(uri "${KIPRJMOD}/libraries/Header/headder.pretty")(options "")(descr ""))
 )

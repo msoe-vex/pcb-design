@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.84,
-          "height": 1.44,
-          "width": 1.44
+          "drill": 0.0,
+          "height": 1.55,
+          "width": 0.3
         },
         "silk_line_width": 0.153,
         "silk_text_italic": false,
@@ -61,7 +61,7 @@
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "ignore",
+        "clearance": "error",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",

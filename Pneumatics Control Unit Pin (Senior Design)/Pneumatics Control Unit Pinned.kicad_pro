@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.1,
+          "height": 1.6,
+          "width": 1.6
         },
         "silk_line_width": 0.153,
         "silk_text_italic": false,
@@ -193,26 +193,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "duplicate_reference|2159000|2349500|481a57fa-92ec-4a58-ab49-833da7c533e0|a90888b0-55db-4e02-b4c7-a4def2483746",
-      "duplicate_reference|2159000|2616200|846face6-bf6b-454f-ba44-b20045af755c|6c9dd4c5-813b-4e3b-ba02-893a819f81ed",
-      "duplicate_reference|2400300|2349500|a90888b0-55db-4e02-b4c7-a4def2483746|846face6-bf6b-454f-ba44-b20045af755c",
-      "pin_to_pin|1828800|1993900|59ad959a-614e-4068-a2ca-19a88db7913b|17545bcf-23ec-4a44-8f0f-fc25158f8382",
-      "pin_to_pin|1828800|1993900|59ad959a-614e-4068-a2ca-19a88db7913b|58d97d44-0802-452a-8f77-e8fc8fc4a4e0",
-      "pin_to_pin|1828800|1993900|59ad959a-614e-4068-a2ca-19a88db7913b|95f1fe30-1d70-4af7-a635-81d473f3f791",
-      "pin_to_pin|3632200|1828800|14fcf554-74d5-4ac0-be6d-153fa05c322b|1146bdf6-9f82-432f-8883-8aaf47bdf53f",
-      "pin_to_pin|3632200|1854200|1146bdf6-9f82-432f-8883-8aaf47bdf53f|14fcf554-74d5-4ac0-be6d-153fa05c322b",
-      "pin_to_pin|977900|2336800|17545bcf-23ec-4a44-8f0f-fc25158f8382|58d97d44-0802-452a-8f77-e8fc8fc4a4e0",
-      "pin_to_pin|977900|2336800|17545bcf-23ec-4a44-8f0f-fc25158f8382|59ad959a-614e-4068-a2ca-19a88db7913b",
-      "pin_to_pin|977900|2336800|17545bcf-23ec-4a44-8f0f-fc25158f8382|95f1fe30-1d70-4af7-a635-81d473f3f791",
-      "pin_to_pin|977900|2514600|58d97d44-0802-452a-8f77-e8fc8fc4a4e0|17545bcf-23ec-4a44-8f0f-fc25158f8382",
-      "pin_to_pin|977900|2514600|58d97d44-0802-452a-8f77-e8fc8fc4a4e0|59ad959a-614e-4068-a2ca-19a88db7913b",
-      "pin_to_pin|977900|2514600|58d97d44-0802-452a-8f77-e8fc8fc4a4e0|95f1fe30-1d70-4af7-a635-81d473f3f791",
-      "pin_to_pin|977900|2692400|95f1fe30-1d70-4af7-a635-81d473f3f791|17545bcf-23ec-4a44-8f0f-fc25158f8382",
-      "pin_to_pin|977900|2692400|95f1fe30-1d70-4af7-a635-81d473f3f791|58d97d44-0802-452a-8f77-e8fc8fc4a4e0",
-      "pin_to_pin|977900|2692400|95f1fe30-1d70-4af7-a635-81d473f3f791|59ad959a-614e-4068-a2ca-19a88db7913b",
-      "unannotated|2159000|2349500|481a57fa-92ec-4a58-ab49-833da7c533e0|00000000-0000-0000-0000-000000000000"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -461,7 +442,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": -1,
     "drawing": {
       "dashed_lines_dash_length_ratio": 12.0,
       "dashed_lines_gap_length_ratio": 3.0,

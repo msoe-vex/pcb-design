@@ -6422,7 +6422,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 488c2b64-46fd-44ae-b02f-9f73edadb89e)
   )
-  (label "SPI_0_CS_0" (at 147.447 277.749 0) (fields_autoplaced)
+  (label "SPI_0_CS" (at 147.447 277.749 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 48b5fd53-1fff-4708-a5e6-01197161d952)
   )
@@ -6714,7 +6714,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d6ba6610-5dc5-4da4-b7ee-7403006cbc95)
   )
-  (label "SPI_0_CS_1" (at 165.227 277.749 0) (fields_autoplaced)
+  (label "SPI_0_CS" (at 165.227 277.749 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d8535d9d-8999-4a76-ad6c-a83a4b67fb4f)
   )
@@ -10868,6 +10868,9 @@
   )
 
   (symbol_instances
+    (path "/a96442ef-a567-43e7-bb2f-3d8cc3d38530"
+      (reference "#PWR00") (unit 1) (value "GND") (footprint "")
+    )
     (path "/e6fc3c4d-354d-4397-bcf9-2ff452adbf52"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -11099,8 +11102,8 @@
     (path "/8ecd5f5c-a148-453f-8c97-dcbc45cf7110"
       (reference "#PWR0178") (unit 1) (value "GND") (footprint "")
     )
-    (path "/a96442ef-a567-43e7-bb2f-3d8cc3d38530"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/f0b593dc-4dfa-44bc-b395-79988370594d"
+      (reference "C0") (unit 1) (value "1u") (footprint "1 uF Cap:C1608X7R1C105K080AC")
     )
     (path "/19ddc83e-fdbf-4854-b635-0a005a96e472"
       (reference "C1") (unit 1) (value "1u") (footprint "1 uF Cap:C1608X7R1C105K080AC")
@@ -11193,10 +11196,7 @@
       (reference "C30") (unit 1) (value "22u") (footprint "22 uF Cap:CL21A226MQQNNNE")
     )
     (path "/ea4cfbc2-db63-4b8d-9630-af085d212d23"
-      (reference "C?") (unit 1) (value "1u") (footprint "1 uF Cap:C1608X7R1C105K080AC")
-    )
-    (path "/f0b593dc-4dfa-44bc-b395-79988370594d"
-      (reference "C?") (unit 1) (value "1u") (footprint "1 uF Cap:C1608X7R1C105K080AC")
+      (reference "C31") (unit 1) (value "1u") (footprint "1 uF Cap:C1608X7R1C105K080AC")
     )
     (path "/d33a4736-c811-4d0c-a054-0d71b90aa4de"
       (reference "D1") (unit 1) (value "PESD1FLEX,215") (footprint "Dual Diode:PESD1FLEX215")
@@ -11363,6 +11363,9 @@
     (path "/ea04b955-f62a-4c0a-a87d-8fcde3ae25df"
       (reference "R7") (unit 1) (value "10K") (footprint "10K Res:SR1-0603-310")
     )
+    (path "/dbefbbf9-de0e-42bd-982e-9ca5f987f5b6"
+      (reference "U0") (unit 1) (value "MC78M05CDTRKG") (footprint "12V5V Regulator:MC78M05CDTRKG")
+    )
     (path "/83fcacc7-e5aa-4a4b-bdc7-bc44cd7f6326"
       (reference "U1") (unit 1) (value "Teensy4.1") (footprint "Teensy:Teensy41")
     )
@@ -11386,9 +11389,6 @@
     )
     (path "/b065a3d9-0c71-45af-8f0c-7000dd6c2ff6"
       (reference "U8") (unit 1) (value "MIC2178-3.3YWM") (footprint "33SW:MIC2178-33YWM")
-    )
-    (path "/dbefbbf9-de0e-42bd-982e-9ca5f987f5b6"
-      (reference "U?") (unit 1) (value "MC78M05CDTRKG") (footprint "12V5V Regulator:MC78M05CDTRKG")
     )
   )
 )

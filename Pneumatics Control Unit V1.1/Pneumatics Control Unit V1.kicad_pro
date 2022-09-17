@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.55,
-          "width": 0.3
+          "height": 1.35,
+          "width": 0.4
         },
         "silk_line_width": 0.153,
         "silk_text_italic": false,
@@ -61,7 +61,7 @@
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "error",
+        "clearance": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
@@ -74,7 +74,7 @@
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
-        "isolated_copper": "warning",
+        "isolated_copper": "error",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
@@ -94,8 +94,8 @@
         "silk_over_copper": "warning",
         "silk_overlap": "error",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "error",
-        "starved_thermal": "error",
+        "solder_mask_bridge": "warning",
+        "starved_thermal": "warning",
         "text_height": "warning",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",

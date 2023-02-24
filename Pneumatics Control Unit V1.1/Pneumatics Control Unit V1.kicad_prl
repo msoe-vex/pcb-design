@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 1,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
@@ -63,11 +63,11 @@
       35,
       36
     ],
-    "visible_layers": "0001000_fffffffe",
+    "visible_layers": "0000023_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Test Rs485.kicad_prl",
+    "filename": "Pneumatics Control Unit V1.kicad_prl",
     "version": 3
   },
   "project": {

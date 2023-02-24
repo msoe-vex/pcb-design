@@ -1,0 +1,39 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# J1B1211CCD
+#
+DEF J1B1211CCD P 0 40 Y Y 1 L N
+F0 "P" -300 900 50 H V L BNN
+F1 "J1B1211CCD" -300 -1000 50 H V L BNN
+F2 "J1B1211CCD" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "WIZnet" 0 0 50 H I L BNN "MF"
+F5 "Good" 0 0 50 H I L BNN "Availability"
+F6 "J1B1211CCD" 0 0 50 H I L BNN "MP"
+F7 "None" 0 0 50 H I L BNN "Price"
+F8 "None" 0 0 50 H I L BNN "Package"
+F9 "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX" 0 0 50 H I L BNN "Description"
+F10 "https://pricing.snapeda.com/search/part/J1B1211CCD/?ref=eda" 0 0 50 H I L BNN "Purchase-URL"
+DRAW
+S -300 -900 300 900 0 0 10 f
+X TD+ 1 -400 800 100 R 40 40 0 0 P 
+X TCT 2 -400 700 100 R 40 40 0 0 P 
+X TD- 3 -400 600 100 R 40 40 0 0 P 
+X RD+ 4 -400 500 100 R 40 40 0 0 P 
+X RCT 5 -400 400 100 R 40 40 0 0 P 
+X RD- 6 -400 300 100 R 40 40 0 0 P 
+X NC 7 -400 200 100 R 40 40 0 0 P 
+X GH_GND@1 8 -400 100 100 R 40 40 0 0 P 
+X GRN- 9 -400 -100 100 R 40 40 0 0 P 
+X GRN+ 10 -400 -200 100 R 40 40 0 0 P 
+X YLW- 11 -400 -400 100 R 40 40 0 0 P 
+X YLW+ 12 -400 -500 100 R 40 40 0 0 P 
+X CH_GND@2 13 -400 -700 100 R 40 40 0 0 P 
+X CH_GND@3 14 -400 -800 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
